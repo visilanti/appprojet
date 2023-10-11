@@ -19,3 +19,6 @@ Aplikasi yang menerapkan Bottom Navigation:
 10. Flip
 
 Aplikasi yang diimplementasikan : MyAnimeList
+
+Screenshot Aplikasi:
+![image-01](https://github.com/visilanti/appprojet/blob/main/screenshot/image-01.jpg?raw=true)
