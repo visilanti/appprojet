@@ -21,4 +21,5 @@ Aplikasi yang menerapkan Bottom Navigation:
 Aplikasi yang diimplementasikan : MyAnimeList
 
 Screenshot Aplikasi:
+
 ![image-01](https://github.com/visilanti/appprojet/blob/main/screenshot/image-01.jpg?raw=true)
