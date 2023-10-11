@@ -8,8 +8,8 @@
 Aplikasi yang menerapkan Bottom Navigation:
 
 1. Bilibili
-2. Guguru Doraifu
-3. Guguru Mapps
+2. Google Drive
+3. Google Maps
 4. MyAnimeList
 5. My Telkomsel
 6. IF Digital 
